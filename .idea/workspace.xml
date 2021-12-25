@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f5b6038-29a3-4a38-81f4-48cbb2d92d92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22n1MsSynXgxXe1uow1kPnjJh2y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/modules/module2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ERNFNS\practice1\src\main\modules\module2" />
+      <recent name="C:\ERNFNS\practice1\src\main\modules" />
+      <recent name="C:\ERNFNS\practice1\src\main\resources" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f5b6038-29a3-4a38-81f4-48cbb2d92d92" name="Default Changelist" comment="" />
+      <created>1640458491109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640458491109</updated>
+      <workItem from="1640458493971" duration="5128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="695" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640463231464">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="2963" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1640460618859" />
+    <state x="695" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1640463231464" />
+    <state x="2943" y="254" key="FileChooserDialogImpl" timestamp="1640458526017">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2943" y="254" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1640458526017" />
+  </component>
+</project>
